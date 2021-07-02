@@ -14,5 +14,5 @@ You can click the Preview link to take a look at your changes.
 username=Tasnova012&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icone_color=8E2DE2">
 
 ## TOP PROGRAMMING LANGUAGE
-!.[Top_Langs].(https://github-readme-stats.vercel.app/api?/top-langs/?username=Tasnova012&theme=radical&tittle_color=8E2DE2&text_color=fff)
+<!.[Top_Langs]=("https://github-readme-stats.vercel.app/api?/top-langs/?username=Tasnova012&theme=radical&tittle_color=8E2DE2&text_color=fff")>
 
