@@ -9,7 +9,11 @@
 Tasnova012/Tasnova012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-!.[Tasnova's GitHub stats].(https://github-readme-stats.versel.app/api?username=Tasnova012&show_icons=true&theme=tokyonight]
+## GIT STATS
+<img src="https://github-readme-stats.vercel.app/api?
+username=Tasnova012&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icone_color=8E2DE2">
 
+## TOP PROGRAMMING LANGUAGE
+<!.[Top_langs](https://github-readme-stats.vercel.app/api?/top-langs/?username=Tasnova012&theme=radical&tittle_color=8E2DE2&text_color=fff)>
 
-![.].(https://komarev.com/ghpvc/?username=Tasnova012& color=blueviolet)
+<![.].("https://komarev.com/ghpvc/?username=Tasnova012& color=blueviolet")>
