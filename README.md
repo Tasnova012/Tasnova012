@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github-readme-stats.vercel.app/api?username=Tasnova012&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icone_color=8E2DE2">
 
 <h1 align="center">Hi 👋, I'm Tasnova tasnim</h1>
-<h3 align="center">i am prity</h3>
+<h3 align="center"></h3>
 
 ### <h3 align="left">Connect with me:</h3>
 <p align="left">
