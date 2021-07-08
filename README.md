@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://linkedin.com/in/tasnimprity12@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tasnimprity12@gmail.com" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/tasnovatasnimpriti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tasnovatasnimpriti" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/tasnimprity?utm_medium=copy_link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tasnimprity" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/tasnova tasnim prity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tasnova tasnim prity" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://m.youtube.com/channel/UCHaqlXygrWSC7caQ0NiForA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tasnova tasnim prity" height="30" width="40" /></a>
 </p>
 
  ### <h3 align="left">Languages and Tools:</h3>
