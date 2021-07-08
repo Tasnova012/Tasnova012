@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tasnova012 Hi, I’m prity! I'm a CSE undergraduate at State University Of Bangladesh.
+- 👋 Hi, I’m @Tasnova012 I'm a CSE undergraduate at State University Of Bangladesh.
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python, Introduction to Artificial Intelligence and Machine Learning.
 - 📫 i am from cumilla, Bangladesh
