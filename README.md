@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python, Introduction to Artificial Intelligence and Machine Learning.
 - 📫 i am from cumilla, Bangladesh
 -💻 I have experince in latex also basic knowladge of C programming, JAVA, DATABASE,Html,php.
--my dream become a best full stack developer
+-my dream become a best software engineer
 <!---
 Tasnova012/Tasnova012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
