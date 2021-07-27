@@ -1,7 +1,6 @@
 <h1 align="center"> Hi  👋, I'm Tasnova tasnim</h1>
 <h3 align="center"></h3>
 
-
 <img src=https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif>
 - 👋 Hi, I'm a CSE undergraduate student at State University Of Bangladesh.
 
