@@ -1,5 +1,9 @@
+<h1 align="center"> Hi  👋, I'm Tasnova tasnim</h1>
+<h3 align="center"></h3>
+
+
 <img src=https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif>
-- 👋 Hi, I'm a CSE undergraduate at State University Of Bangladesh.
+- 👋 Hi, I'm a CSE undergraduate student at State University Of Bangladesh.
 
 - 👀 I’m interested in programming
 
@@ -17,8 +21,7 @@ You can click the Preview link to take a look at your changes.
 ## GIT STATS
 <img src="https://github-readme-stats.vercel.app/api?username=Tasnova012&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icone_color=8E2DE2">
 
-<h1 align="center"> Hi  👋, I'm Tasnova tasnim</h1>
-<h3 align="center"></h3>
+
 
 ### <h3 align="left">Connect with me:</h3>
 <p align="left">
