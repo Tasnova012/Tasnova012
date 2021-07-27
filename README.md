@@ -1,10 +1,13 @@
 <img src=https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif>
 - 👋 Hi, I'm a CSE undergraduate at State University Of Bangladesh.
+
 - 👀 I’m interested in programming
+
 - 🌱 I’m currently learning python, Introduction to Artificial Intelligence and Machine Learning.
 - 📫 i am from cumilla, Bangladesh
 -💻 I have experince in latex also basic knowladge of C programming, JAVA, DATABASE,Html,php.
--my dream become a best software engineer
+
+my dream become a best software engineer
 <img src=
 https://camo.githubusercontent.com/a85c05886e6541625c3a68d9b980a710aff0594afe67d17878e7c42f6d692b48/68747470733a2f2f632e74656e6f722e636f6d2f6e484267454b367a45514d414141416a2f6361742d677261792e676966>
 <!---
