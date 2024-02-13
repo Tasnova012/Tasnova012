@@ -2,7 +2,7 @@
 <h3 align="center"></h3>
 
 <img src=https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif>
-- 👋 Hi, I'm a CSE undergraduate student at State University Of Bangladesh.
+- 👋 Hi, I'm a CSE graduate student at State University Of Bangladesh.
 
 - 👀 I’m interested in programming
 
